@@ -26,6 +26,7 @@ from tests.unit.onyx.connectors.utils import load_everything_from_checkpoint_con
         ("README.md", 100, True),
         ("docs/guide.mdx", 100, True),
         ("notes.txt", 100, True),
+        ("docs/guide.adoc", 100, True),
         ("manual.rst", 100, True),
         # disallowed extension (source code is intentionally excluded)
         ("main.py", 100, False),

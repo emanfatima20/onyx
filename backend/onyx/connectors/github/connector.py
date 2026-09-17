@@ -77,6 +77,7 @@ GITHUB_INDEXABLE_FILE_EXTENSIONS = {
     ".markdown",
     ".rst",
     ".txt",
+    ".adoc",
 }
 # Common documentation files that conventionally have no extension. Matched
 # case-insensitively against the file's basename (stem before any extension).
